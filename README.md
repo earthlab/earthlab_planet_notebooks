@@ -1,2 +1,2 @@
-# earthlab_planet_notebooks
+# earthlab planet notebooks
 exploring Planet imagery with other data sources
